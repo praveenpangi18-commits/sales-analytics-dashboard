@@ -1,88 +1,58 @@
-# Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard
 
-An end-to-end sales analytics project using MySQL, SQL, Python, Pandas, and Microsoft Power BI.
+An end-to-end sales analytics project that uses **MySQL, SQL, Python, Pandas, and Microsoft Power BI** to analyze sales performance and generate business insights.
 
-## Project Overview
+## 🚀 Project Overview
 
-This project analyzes sales data to identify revenue trends, profitability, product performance, regional performance, and customer insights.
+This project analyzes sales data to understand:
 
-The project combines database management, SQL analysis, Python data processing, and Power BI visualization to create an interactive sales analytics dashboard.
+- Revenue and profit trends
+- Product performance
+- Regional performance
+- Customer behavior
+- Sales quantity
+- Profit margins
+- Monthly and yearly sales trends
 
-## Dataset
+The project follows a complete data analytics workflow:
 
-The project contains the following datasets:
+**Raw Data → MySQL → SQL Analysis → Python/Pandas → Power BI Dashboard → Business Insights**
 
-- Customers
-- Products
-- Orders
-- Order Details
-- Sales Analysis
+---
 
-The original datasets are stored in the `data/raw/` folder.
+## 🛠️ Technologies Used
 
-## Project Flow
+| Technology | Purpose |
+|------------|---------|
+| MySQL | Database management |
+| SQL | Data querying and analysis |
+| Python | Data analysis |
+| Pandas | Data cleaning and transformation |
+| Power BI | Interactive dashboard |
+| Git & GitHub | Version control and project sharing |
 
-Excel Data
-→ MySQL
-→ SQL Analysis
-→ Python/Pandas
-→ Power BI Dashboard
+---
 
-## Dashboard
-
-The Power BI dashboard provides an interactive view of key sales performance metrics.
-
-### Key KPIs
-
-- Total Revenue
-- Total Profit
-- Total Quantity
-- Total Customers
-- Profit Margin
-
-### Visualizations
-
-- Revenue by Region
-- Revenue by Category
-- Monthly Revenue Trend
-- Top 10 Products by Revenue
-- Customer Segmentation
-
-### Interactive Filters
-
-The dashboard includes filters for:
-
-- Payment Method
-- Order Date
-- Region
-- State
-- Category
-- Customer Segment
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
 sales-analytics-dashboard/
 │
-├── README.md
-│
 ├── data/
-│   ├── raw/
-│   │   ├── customers.xlsx
-│   │   ├── order_details.xlsx
-│   │   ├── orders.xlsx
-│   │   ├── products.xlsx
-│   │   └── sales_analysis.xlsx
-│   │
-│   └── cleaned/
+│   └── raw/
 │
 ├── database/
+│   ├── create_database.sql
+│   ├── schema.sql
+│   └── queries.sql
 │
 ├── python/
+│   └── data_analysis.py
 │
-├── dashboard/
+├── power bi/
+│   └── sales_dashboard.pbix
 │
-└── screenshots/
-## Dashboard Preview
-
-![Sales Analytics Dashboard](screenshots/dashboard.png)
+├── screenshots/
+│   └── dashboard.png
+│
+└── README.md
