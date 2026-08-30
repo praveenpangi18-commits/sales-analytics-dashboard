@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,price,cost
+1,Basic Laptop,Electronics,Computers,46100.0,33920.0
+2,Standard Laptop,Electronics,Computers,66030.0,42660.0
+3,Pro Laptop,Electronics,Computers,51630.0,38010.0
+4,Basic Smartphone,Electronics,Mobiles,14820.0,10940.0
+5,Standard Smartphone,Electronics,Mobiles,71640.0,39970.0
+6,Pro Smartphone,Electronics,Mobiles,44590.0,25980.0
+7,Basic Monitor,Electronics,Computers,8250.0,5920.0
+8,Standard Monitor,Electronics,Computers,37290.0,24560.0
+9,Pro Monitor,Electronics,Computers,11750.0,8800.0
+10,Basic Headphones,Electronics,Audio,10030.0,7470.0
+11,Standard Headphones,Electronics,Audio,10860.0,7010.0
+12,Pro Headphones,Electronics,Audio,2790.0,1420.0
+13,Basic Printer,Electronics,Office Tech,27360.0,14070.0
+14,Standard Printer,Electronics,Office Tech,27480.0,16430.0
+15,Pro Printer,Electronics,Office Tech,8120.0,3940.0
+16,Basic Tablet,Electronics,Mobiles,18350.0,14200.0
+17,Standard Tablet,Electronics,Mobiles,26570.0,15630.0
+18,Pro Tablet,Electronics,Mobiles,22530.0,11300.0
+19,Basic Keyboard,Accessories,Computer Accessories,3670.0,1820.0
+20,Standard Keyboard,Accessories,Computer Accessories,5930.0,3350.0
+21,Pro Keyboard,Accessories,Computer Accessories,2940.0,1810.0
+22,Basic Mouse,Accessories,Computer Accessories,1940.0,1550.0
+23,Standard Mouse,Accessories,Computer Accessories,2320.0,1120.0
+24,Pro Mouse,Accessories,Computer Accessories,2550.0,1280.0
+25,Basic Webcam,Accessories,Computer Accessories,1440.0,1140.0
+26,Standard Webcam,Accessories,Computer Accessories,7230.0,5460.0
+27,Pro Webcam,Accessories,Computer Accessories,4930.0,3140.0
+28,Basic USB Drive,Accessories,Storage,1170.0,630.0
+29,Standard USB Drive,Accessories,Storage,4260.0,2300.0
+30,Pro USB Drive,Accessories,Storage,4200.0,2680.0
+31,Basic Office Chair,Furniture,Office Furniture,8540.0,5360.0
+32,Standard Office Chair,Furniture,Office Furniture,18550.0,9870.0
+33,Pro Office Chair,Furniture,Office Furniture,21610.0,13690.0
+34,Basic Office Desk,Furniture,Office Furniture,11630.0,7610.0
+35,Standard Office Desk,Furniture,Office Furniture,34990.0,16990.0
+36,Pro Office Desk,Furniture,Office Furniture,29870.0,15610.0
+37,Basic Bookshelf,Furniture,Storage Furniture,14740.0,10420.0
+38,Standard Bookshelf,Furniture,Storage Furniture,7510.0,4240.0
+39,Pro Bookshelf,Furniture,Storage Furniture,14890.0,9110.0
+40,Basic Notebook,Office Supplies,Stationery,380.0,190.0
+41,Standard Notebook,Office Supplies,Stationery,430.0,270.0
+42,Pro Notebook,Office Supplies,Stationery,460.0,220.0
+43,Basic Pen Pack,Office Supplies,Stationery,190.0,130.0
+44,Standard Pen Pack,Office Supplies,Stationery,130.0,80.0
+45,Pro Pen Pack,Office Supplies,Stationery,40.0,30.0
+46,Basic Printer Paper,Office Supplies,Paper,770.0,360.0
+47,Standard Printer Paper,Office Supplies,Paper,900.0,550.0
+48,Pro Printer Paper,Office Supplies,Paper,280.0,220.0
+49,Basic Calculator,Office Supplies,Stationery,2390.0,1340.0
+50,Standard Calculator,Office Supplies,Stationery,460.0,330.0
+51,Pro Calculator,Office Supplies,Stationery,1360.0,760.0
+52,Basic Backpack,Accessories,Bags,2860.0,1810.0
+53,Standard Backpack,Accessories,Bags,3160.0,1910.0
+54,Pro Backpack,Accessories,Bags,3340.0,2580.0
+55,Basic Desk Lamp,Furniture,Office Accessories,2260.0,1590.0
+56,Standard Desk Lamp,Furniture,Office Accessories,4550.0,2480.0
+57,Pro Desk Lamp,Furniture,Office Accessories,2610.0,1720.0
+58,Basic External SSD,Electronics,Storage,19790.0,14490.0
+59,Standard External SSD,Electronics,Storage,16910.0,13510.0
+60,Pro External SSD,Electronics,Storage,6490.0,3510.0
